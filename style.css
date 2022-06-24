@@ -1,0 +1,40 @@
+body {
+  background-color: seashell;
+}
+
+h1 {
+  text-align: center;
+  text-shadow: blue;
+  font-weight: lighter;
+  font-size: 20px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-family: Verdana;
+}
+
+.input {
+  align-items: center;
+}
+
+#add {
+  border-radius: 1px;
+  font-family: Verdana;
+  height: 25px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+#add:hover {
+  background-color: rgb(150, 150, 150);
+  color: white;
+}
+
+#inputField {
+  border: 1px solid black;
+  vertical-align: middle;
+  outline: none;
+  font-family: Verdana;
+  height: 20px;
+  padding-bottom: 2px;
+  border-radius: 5px;
+}
